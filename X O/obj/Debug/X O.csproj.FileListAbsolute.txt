@@ -1,0 +1,7 @@
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\bin\Debug\X O.exe.config
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\bin\Debug\X O.exe
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\bin\Debug\X O.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\obj\Debug\X O.csproj.AssemblyReference.cache
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\obj\Debug\X O.csproj.CoreCompileInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\obj\Debug\X O.exe
+C:\Users\Dream Machines\Desktop\C# Projects\X O\X O\obj\Debug\X O.pdb
